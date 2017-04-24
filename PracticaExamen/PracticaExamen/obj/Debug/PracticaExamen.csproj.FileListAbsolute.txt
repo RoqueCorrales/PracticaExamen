@@ -1,0 +1,14 @@
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\PracticaExamen.exe.config
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.csprojResolveAssemblyReference.cache
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.Form1.resources
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.Properties.Resources.resources
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.csproj.GenerateResource.Cache
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\PracticaExamen.exe
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\PracticaExamen.pdb
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\EntityFramework.dll
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\EntityFramework.xml
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.exe
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.pdb
+c:\users\roke1\onedrive\documentos\visual studio 2015\Projects\PracticaExamen\PracticaExamen\obj\Debug\PracticaExamen.Migrations.CreateTables.resources
